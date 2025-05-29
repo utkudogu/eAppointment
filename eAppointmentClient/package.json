@@ -2,7 +2,7 @@
   "name": "e-appointment-client",
   "version": "0.0.0",
   "scripts": {
-    "ng": "ng",
+    "ng": "ng ",
     "start": "ng serve",
     "build": "ng build --configuration production --base-href /",
     "watch": "ng build --watch --configuration development",
